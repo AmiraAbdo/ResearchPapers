@@ -1,5 +1,5 @@
 # ResearchPapers
-Some research papers done during my IT studies at IBU
+Some research papers done during my IT studies at IBU.
 
 Internal memory is a research paper done on internal memory systems; it was done for the course Computer Organization.
 
